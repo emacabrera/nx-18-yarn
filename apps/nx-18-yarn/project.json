@@ -1,0 +1,8 @@
+{
+  "name": "nx-18-yarn",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nx-18-yarn/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}

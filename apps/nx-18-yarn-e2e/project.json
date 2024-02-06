@@ -1,0 +1,8 @@
+{
+  "name": "nx-18-yarn-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/nx-18-yarn-e2e/src",
+  "targets": {},
+  "implicitDependencies": ["nx-18-yarn"]
+}
